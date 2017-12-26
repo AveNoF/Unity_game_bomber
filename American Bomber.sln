@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "American Bomber.Plugins", "American Bomber.Plugins.csproj", "{ABDBB7C4-046A-74AE-59E6-E75568AFA768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "American Bomber", "American Bomber.csproj", "{1AE9116E-8BAB-2C59-3FC7-F3DA27E533F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "American Bomber.Editor.Plugins", "American Bomber.Editor.Plugins.csproj", "{C43080F7-F82A-F3BA-6189-6E40FDB2C1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDBB7C4-046A-74AE-59E6-E75568AFA768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDBB7C4-046A-74AE-59E6-E75568AFA768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDBB7C4-046A-74AE-59E6-E75568AFA768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDBB7C4-046A-74AE-59E6-E75568AFA768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE9116E-8BAB-2C59-3FC7-F3DA27E533F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE9116E-8BAB-2C59-3FC7-F3DA27E533F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE9116E-8BAB-2C59-3FC7-F3DA27E533F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE9116E-8BAB-2C59-3FC7-F3DA27E533F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43080F7-F82A-F3BA-6189-6E40FDB2C1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43080F7-F82A-F3BA-6189-6E40FDB2C1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43080F7-F82A-F3BA-6189-6E40FDB2C1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43080F7-F82A-F3BA-6189-6E40FDB2C1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
